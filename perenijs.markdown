@@ -1,3 +1,10 @@
 # Perenijs
 
-TODO: Verzin een recept
+## Ingredienten
+
+* Peren
+* IJs
+
+## Bereiding:
+
+TODO (doen we een andere keer)
