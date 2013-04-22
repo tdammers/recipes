@@ -1,6 +1,6 @@
 # Perenijs
 
-## Ingredienten
+## Ingrediënten
 
 * Peren
 * IJs
