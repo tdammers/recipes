@@ -12,3 +12,5 @@
 3. Mix
 4. ???
 5. Profit
+
+Moeten we punt 4 niet nog uitwerken?
